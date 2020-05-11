@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="gst">GST</string>
+    <string name="svs">SVS</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+    <string name="enter_num_of_pax">Enter num of pax</string>
+    <string name="enter_amount">Enter amount</string>
+
+</resources>
